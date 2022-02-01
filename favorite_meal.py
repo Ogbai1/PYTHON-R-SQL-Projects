@@ -1,0 +1,5 @@
+meal1 = input("enter your favorite starter ")
+meal2 = input("enter your favorite main course ")
+meal3= input("enter your favorite deserts ")
+drink= input("enter your favorite drink")
+print ("Your favorite meal is pizza burger with a glass of wine", meal1+meal2+meal3+drink)
